@@ -1,0 +1,11 @@
+682|Eugeniy|Izmaylov|5|false
+8230|Alexey|Petrov|80|false
+14562|Petr|Bobrov|68|false
+22882|Petr|Tarashov|41|true
+35180|Ilya|Antonov|2|true
+42732|Anton|Leskov|41|true
+67402|Pavel|Rostrikin|25|false
+74036|Alexey|Rostrikin|21|true
+78056|Oleg|Izmaylov|27|false
+93276|Pavel|Rostrikin|44|false
+97887|Eugeniy|Antonov|7|false
